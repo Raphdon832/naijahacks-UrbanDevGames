@@ -2,10 +2,13 @@
 Team UrbanDev Games 
 
 Team Members
-paulkilkelly3@gmail.com@gmail.com
-josephfiberesima@gmail.com
-bomaiyowuna@gmail.com
-greenokorohmichelle@gmail.com@gmail.com
+Raphael Ryan Paul Unoh, paulkilkelly3@gmail.com@gmail.com 
+
+Joseph Fiberesima, josephfiberesima@gmail.com
+
+Boma Iyowuna, bomaiyowuna@gmail.com
+
+Green-Okoroh Michelle, greenokorohmichelle@gmail.com@gmail.com
 
 Problem
 Housing And Real Esate 
