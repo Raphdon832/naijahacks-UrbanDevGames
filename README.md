@@ -20,11 +20,10 @@ Using VR to develop modern Solution
 Proposed Stack
 C#, Blender, Unity 3D, Html, Css, Javascript, Node.js
 
-Upcoming Solution 
-We are working on a dynamic solution to bridge the gap of cost and quality. Thisolution will helpto curb the situation whereby quality of building materials are tested virtually(Simulation) evenbefore these materials are bought, with the help of virtual reality.
+"Typically, a real estate agent provides a long list of properties to the client. Afterward come the explanations, negotiations, and finally the real-life visits to houses and apartments. This workflow has remained the same for decades, but in fact it's inconvenient and time-consuming not only for realtors but for homebuyers as well.
 
-Benefit 
-COST: ​we hope to cut down the cost using virtual reality.Those interested in housing probablyfirst time housing agents or to be house owners / real estate moguls. Cost of transportation tointended building sites can be managed in the sense that real estate housing moguls canupload there building plans on our email, and 3d virtual reality renders can be made from themand sent back for viewing.
-COLLAPSING BUILDINGS: ​Building materials can be tested virtually via physics simulations,therefore the issue of collapsed buildings due to wrong choice of building materials can becheckmated.
-HOUSING DESIGN: ​Real estate moguls can ​see ​what their houses or buildings will look like invirtual reality through real time virtual footage.
-LOCATION:​ Houses to be leased can be ​seen ​in virtual reality through 360 images or 3drenders.
+However, there's a game changer and it's already transforming the way the real estate industry functions – virtual reality (VR). The power of VR technology can help real estate agents grow their business, get more clients, and deliver top-level services. It's particularly important to adopt this new technology today when – according to a survey by the National Association of Realtors – 44% of clients search for properties on the internet first". -https://rubygarage.org/blog/virtual-reality-in-real-estate
+
+Typically, clients visit multiple properties before deciding on the one they want. This requires a lot of time and things get complicated if a property is far from where a client lives. In this case, visiting a property is not only time-consuming but can be expensive.
+
+VR technology helps solve these problems, allowing millions of people to virtually visit properties without leaving their homes. Simply put on a VR headset and you can experience immersive, three-dimensional walkthroughs of properties. In a matter of minutes, potential buyers or renters can virtually visit dozens of locations and decide which are worth visiting in person.
