@@ -1,5 +1,5 @@
 
-# naijahacks-UrbanDevGamesNaijaHacks Hackathon 2019
+# NaijaHacks-UrbanDevGamesNaijaHacks Hackathon 2019
 
 Team UrbanDev Games 
 
@@ -27,3 +27,19 @@ However, there's a game changer and it's already transforming the way the real e
 Typically, clients visit multiple properties before deciding on the one they want. This requires a lot of time and things get complicated if a property is far from where a client lives. In this case, visiting a property is not only time-consuming but can be expensive.
 
 VR technology helps solve these problems, allowing millions of people to virtually visit properties without leaving their homes. Simply put on a VR headset and you can experience immersive, three-dimensional walkthroughs of properties. In a matter of minutes, potential buyers or renters can virtually visit dozens of locations and decide which are worth visiting in person.
+
+
+
+**PC REQUIREMENTS TO RUN SOFTWARE:**
+
+Windows 10
+700 free Hard drive Storage
+1.7gb VRAM (Should run on at least Intel HD 620)
+8gb RAM
+
+
+**HardWare REQUIREMENTS**
+1. Oculus Rift (full setup)
+
+**Future REQUIREMENTS**
+VR-Enabled Smartphones (i.e devices with a gyroscope).
