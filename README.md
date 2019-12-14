@@ -33,7 +33,7 @@ VR technology helps solve these problems, allowing millions of people to virtual
 **PC REQUIREMENTS TO RUN SOFTWARE:**
 
 Windows 10
-700 free Hard drive Storage
+700mb free Hard drive Storage
 1.7gb VRAM (Should run on at least Intel HD 620)
 8gb RAM
 
